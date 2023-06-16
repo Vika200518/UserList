@@ -1,0 +1,16 @@
+.contenier-footer-content{
+    display: flex;
+    justify-content: space-around;
+}
+.contenier-footer{
+   background-color: rgb(255, 221, 186);
+}
+.contenier-footer-content-text li{
+    list-style: none;
+    color: rgb(101, 101, 255);
+    cursor: pointer;
+    text-align: center;
+}
+.contenier-footer-content-icon img{
+    cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.contiener-userList{
+display: inline-block;
+border: 1px rgb(20, 184, 255) solid;
+border-radius: 5px;
+width: 200px;
+background-color: rgb(182, 255, 227);
+}
+.contiener-userList-name{
+display: flex;
+justify-content: space-evenly;
+color: indigo;
+}
+.contiener-userList-data{
+    text-align: end;
+}
+.contiener-userList-data p{
+    margin-right: 8px;
+    color: rgb(0, 49, 128);
+   
+}
+.conteiner{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+}
+.max-widht{
+max-width: 90%;
+}
+.content-userList-modal-card{
+    height: 400px;
+    width: 400px;
+    background-color: burlywood;
+    border: 1px sandybrown solid;
+    border-radius: 15%;
+}
+.content-userList-modal{
+    position: relative;
+}
+
+.button{
+    border: 1px solid black;
+     z-index: 10;
+   
+}
+.input{
+    text-align: center;
+    margin-top: 130px;
+  
+}
+.div{
+    height: 25px;
+    width: 100px;
+    margin-left: 150px;
+}
+

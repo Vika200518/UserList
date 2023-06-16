@@ -1,0 +1,34 @@
+export const user=[
+{
+    id:1,
+    name:"Vika",
+    lastName:"Baghdasaryan",
+    age:17,
+    email:"Vika@gmail.com",
+    city:"Armenia"
+},
+{
+    id:2,
+    name:"Jon",
+    lastName:"Smit",
+    age:35,
+    email:"Jon@gmail.com",
+    city:"America",
+},
+{
+    id:3,
+    name:"Gevorg",
+    lastName:"Gevorgyan",
+    age:61,
+    email:"Gev@gmail.com",
+    city:"USA",
+},
+{
+    id:4,
+    name:"Aram",
+    lastName:"Asatryan",
+    age:57,
+    email:"Aram@gmail.com",
+    city:"Gyumry",
+}
+]
